@@ -1,0 +1,4 @@
+function fnInitialized()
+{
+  //initialize here
+}
